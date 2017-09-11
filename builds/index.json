@@ -1,198 +1,208 @@
 {
-    "ubuntu-16.04": [
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.0_debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.0",
-            "debug": true,
-            "zts": false,
-            "size": 3561984,
-            "build_time": 1505070564
+    "0.8.3": {
+        "ubuntu-16.04": {
+            "7.0": [
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.0_debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.0",
+                    "debug": true,
+                    "zts": false,
+                    "size": 3561984,
+                    "build_time": 1505070564
+                },
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.0_debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.0",
+                    "debug": true,
+                    "zts": true,
+                    "size": 3561984,
+                    "build_time": 1505070442
+                },
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.0",
+                    "debug": false,
+                    "zts": false,
+                    "size": 3561984,
+                    "build_time": 1505070819
+                },
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.0",
+                    "debug": false,
+                    "zts": true,
+                    "size": 3561984,
+                    "build_time": 1505070688
+                }
+            ],
+            "7.1": [
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.1_debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.1",
+                    "debug": true,
+                    "zts": false,
+                    "size": 3579392,
+                    "build_time": 1505071070
+                },
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.1_debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.1",
+                    "debug": true,
+                    "zts": true,
+                    "size": 3579392,
+                    "build_time": 1505070945
+                },
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.1",
+                    "debug": false,
+                    "zts": false,
+                    "size": 3579392,
+                    "build_time": 1505071315
+                },
+                {
+                    "path": "0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "linux",
+                    "build_os": "ubuntu-16.04",
+                    "php_version": "7.1",
+                    "debug": false,
+                    "zts": true,
+                    "size": 3579392,
+                    "build_time": 1505071192
+                }
+            ]
         },
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.0_debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.0",
-            "debug": true,
-            "zts": true,
-            "size": 3561984,
-            "build_time": 1505070442
-        },
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.0",
-            "debug": false,
-            "zts": false,
-            "size": 3561984,
-            "build_time": 1505070819
-        },
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.0",
-            "debug": false,
-            "zts": true,
-            "size": 3561984,
-            "build_time": 1505070688
-        },
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.1_debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.1",
-            "debug": true,
-            "zts": false,
-            "size": 3579392,
-            "build_time": 1505071070
-        },
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.1_debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.1",
-            "debug": true,
-            "zts": true,
-            "size": 3579392,
-            "build_time": 1505070945
-        },
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.1",
-            "debug": false,
-            "zts": false,
-            "size": 3579392,
-            "build_time": 1505071315
-        },
-        {
-            "path": "0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "linux",
-            "build_os": "ubuntu-16.04",
-            "php_version": "7.1",
-            "debug": false,
-            "zts": true,
-            "size": 3579392,
-            "build_time": 1505071192
+        "macos-10.12": {
+            "7.0": [
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.0_debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.0",
+                    "debug": true,
+                    "zts": false,
+                    "size": 1215796,
+                    "build_time": 1505073201
+                },
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.0_debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.0",
+                    "debug": true,
+                    "zts": true,
+                    "size": 1215796,
+                    "build_time": 1505073051
+                },
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.0_non-debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.0",
+                    "debug": false,
+                    "zts": false,
+                    "size": 1215796,
+                    "build_time": 1505073488
+                },
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.0_non-debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.0",
+                    "debug": false,
+                    "zts": true,
+                    "size": 1215796,
+                    "build_time": 1505073348
+                }
+            ],
+            "7.1": [
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.1_debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.1",
+                    "debug": true,
+                    "zts": false,
+                    "size": 1219900,
+                    "build_time": 1505073792
+                },
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.1_debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.1",
+                    "debug": true,
+                    "zts": true,
+                    "size": 1219900,
+                    "build_time": 1505073643
+                },
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.1_non-debug_nts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.1",
+                    "debug": false,
+                    "zts": false,
+                    "size": 1219900,
+                    "build_time": 1505074112
+                },
+                {
+                    "path": "0.8.3/macos/macos-10.12_php-7.1_non-debug_zts.so",
+                    "version": "0.8.3",
+                    "version_int": 0,
+                    "os_group": "macos",
+                    "build_os": "macos-10.12",
+                    "php_version": "7.1",
+                    "debug": false,
+                    "zts": true,
+                    "size": 1219900,
+                    "build_time": 1505073949
+                }
+            ]
         }
-    ],
-    "macos-10.12": [
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.0_debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.0",
-            "debug": true,
-            "zts": false,
-            "size": 1215796,
-            "build_time": 1505073201
-        },
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.0_debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.0",
-            "debug": true,
-            "zts": true,
-            "size": 1215796,
-            "build_time": 1505073051
-        },
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.0_non-debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.0",
-            "debug": false,
-            "zts": false,
-            "size": 1215796,
-            "build_time": 1505073488
-        },
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.0_non-debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.0",
-            "debug": false,
-            "zts": true,
-            "size": 1215796,
-            "build_time": 1505073348
-        },
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.1_debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.1",
-            "debug": true,
-            "zts": false,
-            "size": 1219900,
-            "build_time": 1505073792
-        },
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.1_debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.1",
-            "debug": true,
-            "zts": true,
-            "size": 1219900,
-            "build_time": 1505073643
-        },
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.1_non-debug_nts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.1",
-            "debug": false,
-            "zts": false,
-            "size": 1219900,
-            "build_time": 1505074112
-        },
-        {
-            "path": "0.8.3/macos/macos-10.12_php-7.1_non-debug_zts.so",
-            "version": "0.8.3",
-            "version_int": 803,
-            "os_group": "macos",
-            "build_os": "macos-10.12",
-            "php_version": "7.1",
-            "debug": false,
-            "zts": true,
-            "size": 1219900,
-            "build_time": 1505073949
-        }
-    ]
+    }
 }
