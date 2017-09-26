@@ -5,22 +5,14 @@ List of PHP-ION builds
 
 ## linux
 
-* [ubuntu-14.04_php-7.0_debug_nts.so](./0.8.3/linux/ubuntu-14.04_php-7.0_debug_nts.so?raw=true) _(3.4 MiB, 2017-09-22 09:03:21)_
-* [ubuntu-14.04_php-7.0_debug_zts.so](./0.8.3/linux/ubuntu-14.04_php-7.0_debug_zts.so?raw=true) _(3.4 MiB, 2017-09-22 09:01:38)_
-* [ubuntu-14.04_php-7.0_non-debug_nts.so](./0.8.3/linux/ubuntu-14.04_php-7.0_non-debug_nts.so?raw=true) _(3.4 MiB, 2017-09-22 09:06:56)_
-* [ubuntu-14.04_php-7.0_non-debug_zts.so](./0.8.3/linux/ubuntu-14.04_php-7.0_non-debug_zts.so?raw=true) _(3.4 MiB, 2017-09-22 09:05:11)_
-* [ubuntu-14.04_php-7.1_debug_nts.so](./0.8.3/linux/ubuntu-14.04_php-7.1_debug_nts.so?raw=true) _(3.4 MiB, 2017-09-22 09:10:15)_
-* [ubuntu-14.04_php-7.1_debug_zts.so](./0.8.3/linux/ubuntu-14.04_php-7.1_debug_zts.so?raw=true) _(3.4 MiB, 2017-09-22 09:08:34)_
-* [ubuntu-14.04_php-7.1_non-debug_nts.so](./0.8.3/linux/ubuntu-14.04_php-7.1_non-debug_nts.so?raw=true) _(3.4 MiB, 2017-09-22 09:13:35)_
-* [ubuntu-14.04_php-7.1_non-debug_zts.so](./0.8.3/linux/ubuntu-14.04_php-7.1_non-debug_zts.so?raw=true) _(3.4 MiB, 2017-09-22 09:11:56)_
-* [ubuntu-16.04_php-7.0_debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_debug_nts.so?raw=true) _(3.4 MiB, 2017-09-10 19:09:24)_
-* [ubuntu-16.04_php-7.0_debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_debug_zts.so?raw=true) _(3.4 MiB, 2017-09-10 19:07:22)_
-* [ubuntu-16.04_php-7.0_non-debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_nts.so?raw=true) _(3.4 MiB, 2017-09-10 19:13:39)_
-* [ubuntu-16.04_php-7.0_non-debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_zts.so?raw=true) _(3.4 MiB, 2017-09-10 19:11:28)_
-* [ubuntu-16.04_php-7.1_debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_debug_nts.so?raw=true) _(3.4 MiB, 2017-09-10 19:17:50)_
-* [ubuntu-16.04_php-7.1_debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_debug_zts.so?raw=true) _(3.4 MiB, 2017-09-10 19:15:45)_
-* [ubuntu-16.04_php-7.1_non-debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_nts.so?raw=true) _(3.4 MiB, 2017-09-10 19:21:55)_
-* [ubuntu-16.04_php-7.1_non-debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_zts.so?raw=true) _(3.4 MiB, 2017-09-10 19:19:52)_
+* [ubuntu-16.04_php-7.0_debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_debug_nts.so?raw=true) _(3.4 MiB, 2017-09-26 11:56:40)_
+* [ubuntu-16.04_php-7.0_debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_debug_zts.so?raw=true) _(3.4 MiB, 2017-09-26 11:54:56)_
+* [ubuntu-16.04_php-7.0_non-debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_nts.so?raw=true) _(3.4 MiB, 2017-09-26 11:59:58)_
+* [ubuntu-16.04_php-7.0_non-debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_zts.so?raw=true) _(3.4 MiB, 2017-09-26 11:58:22)_
+* [ubuntu-16.04_php-7.1_debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_debug_nts.so?raw=true) _(3.4 MiB, 2017-09-26 12:03:39)_
+* [ubuntu-16.04_php-7.1_debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_debug_zts.so?raw=true) _(3.4 MiB, 2017-09-26 12:01:54)_
+* [ubuntu-16.04_php-7.1_non-debug_nts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_nts.so?raw=true) _(3.4 MiB, 2017-09-26 12:07:07)_
+* [ubuntu-16.04_php-7.1_non-debug_zts.so](./0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_zts.so?raw=true) _(3.4 MiB, 2017-09-26 12:05:26)_
 
 ## macos
 
