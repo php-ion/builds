@@ -1,5 +1,5 @@
 {
-    "date": "2017-09-26 12:07:08",
+    "date": "2017-09-26 15:21:26",
     "os": {
         "linux": {
             "*": "ubuntu-16.04"
@@ -20,7 +20,7 @@
                 "debug": true,
                 "zts": false,
                 "size": 3560144,
-                "build_time": 1506427000
+                "build_time": 1506437317
             },
             "ubuntu-16.04_php-7.0_debug_zts.so": {
                 "path": "0.8.3/linux/ubuntu-16.04_php-7.0_debug_zts.so",
@@ -32,7 +32,7 @@
                 "debug": true,
                 "zts": true,
                 "size": 3560144,
-                "build_time": 1506426896
+                "build_time": 1506437216
             },
             "ubuntu-16.04_php-7.0_non-debug_nts.so": {
                 "path": "0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_nts.so",
@@ -44,7 +44,7 @@
                 "debug": false,
                 "zts": false,
                 "size": 3560144,
-                "build_time": 1506427198
+                "build_time": 1506437518
             },
             "ubuntu-16.04_php-7.0_non-debug_zts.so": {
                 "path": "0.8.3/linux/ubuntu-16.04_php-7.0_non-debug_zts.so",
@@ -56,7 +56,7 @@
                 "debug": false,
                 "zts": true,
                 "size": 3560144,
-                "build_time": 1506427102
+                "build_time": 1506437421
             },
             "ubuntu-16.04_php-7.1_debug_nts.so": {
                 "path": "0.8.3/linux/ubuntu-16.04_php-7.1_debug_nts.so",
@@ -68,7 +68,7 @@
                 "debug": true,
                 "zts": false,
                 "size": 3577752,
-                "build_time": 1506427419
+                "build_time": 1506437734
             },
             "ubuntu-16.04_php-7.1_debug_zts.so": {
                 "path": "0.8.3/linux/ubuntu-16.04_php-7.1_debug_zts.so",
@@ -80,7 +80,7 @@
                 "debug": true,
                 "zts": true,
                 "size": 3577752,
-                "build_time": 1506427314
+                "build_time": 1506437624
             },
             "ubuntu-16.04_php-7.1_non-debug_nts.so": {
                 "path": "0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_nts.so",
@@ -92,7 +92,7 @@
                 "debug": false,
                 "zts": false,
                 "size": 3577752,
-                "build_time": 1506427627
+                "build_time": 1506437940
             },
             "ubuntu-16.04_php-7.1_non-debug_zts.so": {
                 "path": "0.8.3/linux/ubuntu-16.04_php-7.1_non-debug_zts.so",
@@ -104,7 +104,7 @@
                 "debug": false,
                 "zts": true,
                 "size": 3577752,
-                "build_time": 1506427526
+                "build_time": 1506437843
             },
             "darwin-16_php-7.0_debug_nts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.0_debug_nts.so",
@@ -115,8 +115,8 @@
                 "php_version": "7.0",
                 "debug": true,
                 "zts": false,
-                "size": 1215796,
-                "build_time": 1505073201
+                "size": 1211700,
+                "build_time": 1506438299
             },
             "darwin-16_php-7.0_debug_zts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.0_debug_zts.so",
@@ -127,8 +127,8 @@
                 "php_version": "7.0",
                 "debug": true,
                 "zts": true,
-                "size": 1215796,
-                "build_time": 1505073051
+                "size": 1211700,
+                "build_time": 1506438136
             },
             "darwin-16_php-7.0_non-debug_nts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.0_non-debug_nts.so",
@@ -139,8 +139,8 @@
                 "php_version": "7.0",
                 "debug": false,
                 "zts": false,
-                "size": 1215796,
-                "build_time": 1505073488
+                "size": 1211700,
+                "build_time": 1506438629
             },
             "darwin-16_php-7.0_non-debug_zts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.0_non-debug_zts.so",
@@ -151,8 +151,8 @@
                 "php_version": "7.0",
                 "debug": false,
                 "zts": true,
-                "size": 1215796,
-                "build_time": 1505073348
+                "size": 1211700,
+                "build_time": 1506438463
             },
             "darwin-16_php-7.1_debug_nts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.1_debug_nts.so",
@@ -163,8 +163,8 @@
                 "php_version": "7.1",
                 "debug": true,
                 "zts": false,
-                "size": 1219900,
-                "build_time": 1505073792
+                "size": 1215804,
+                "build_time": 1506438958
             },
             "darwin-16_php-7.1_debug_zts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.1_debug_zts.so",
@@ -175,8 +175,8 @@
                 "php_version": "7.1",
                 "debug": true,
                 "zts": true,
-                "size": 1219900,
-                "build_time": 1505073643
+                "size": 1215804,
+                "build_time": 1506438794
             },
             "darwin-16_php-7.1_non-debug_nts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.1_non-debug_nts.so",
@@ -187,8 +187,8 @@
                 "php_version": "7.1",
                 "debug": false,
                 "zts": false,
-                "size": 1219900,
-                "build_time": 1505074112
+                "size": 1215804,
+                "build_time": 1506439284
             },
             "darwin-16_php-7.1_non-debug_zts.so": {
                 "path": "0.8.3/macos/darwin-16_php-7.1_non-debug_zts.so",
@@ -199,8 +199,8 @@
                 "php_version": "7.1",
                 "debug": false,
                 "zts": true,
-                "size": 1219900,
-                "build_time": 1505073949
+                "size": 1215804,
+                "build_time": 1506439119
             }
         }
     }
